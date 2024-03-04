@@ -1,0 +1,1 @@
+Added WebAppChat class to WebApp docs, updated uk-UA localisation of WebApp docs.
